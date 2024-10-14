@@ -1,7 +1,7 @@
-# AWS CDK / Typescript / CI/CD AWS CodePipeline +
+# AWS CDK / Typescript +
 # NestJS - running inside a Lambda as our LambdaLinth
 
-PLus more constructs and AWS resources such as API gateway, AWS Congnito, DynamoDB, and how they are all wired to with with NESTJS to create an API backend hosted on AWS
+PLus more constructs and AWS resources such as API gateway, AWS Congnito, AWS CI/CD, AWS CodePipeline DynamoDB, and how they are all wired to with with NESTJS to create an API backend hosted on AWS
 
 * nestjs-api folder contains the NestJS API code inside the AWS CDK project folder
 * Always navigate to this folder first for any NestJS specific commands
