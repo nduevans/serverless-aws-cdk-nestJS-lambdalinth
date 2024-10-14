@@ -1,8 +1,10 @@
-# Welcome to your CDK TypeScript project
+# AWS CDK / Typescript / CI/CD AWS CodePipeline +
+# NestJS - running inside a Lambda as our LambdaLinth
 
-This is a blank project for CDK development with TypeScript.
+PLus more constructs and AWS resources such as API gateway, AWS Congnito, DynamoDB, and how they are all wired to with with NESTJS to create an API backend hosted on AWS
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+* nestjs-api folder contains the NestJS API code inside the AWS CDK project folder
+* Always navigate to this folder first for any NestJS specific commands
 
 ## Useful commands
 
